@@ -9,3 +9,6 @@ Commit:
 
 -------editing-------
 -------------------------EditeD AgaiN-------------------------------
+
+COMMIT HASH:
+A unique identifier for every commit on GitHub
