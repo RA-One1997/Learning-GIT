@@ -8,9 +8,17 @@ Commit:
 *think of it as a save
 
 -------editing-------
--------------------------EditeD AgaiN-------------------------------
+-------------------------EditeD AgaiN-------------------------------____________________________
 
 COMMIT HASH:
 A unique identifier for every commit on GitHub
 ************************************
 Branch 1 
+
+*************************************************************************************************** 
+Branch:
+*i can think of history of this project as a linear series of times i committed
+*now i want an experimental try, then we branch out.
+*Bringing back a branch to master branch, concepts of Pull and Merge .
+REQUEST: "Will u please take my changes and pull them into master ?"
+PULL REQUEST : TAKE SOME CHANGE FROM 1 PARTICULAR BRANCH AND BRING THEM INTO ANOTHER BRANCH
