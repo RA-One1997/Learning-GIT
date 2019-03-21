@@ -6,3 +6,5 @@ Repository :
 *readme-a special file in repository which says about the repository
 Commit:
 *think of it as a save
+
+-------editing-------
