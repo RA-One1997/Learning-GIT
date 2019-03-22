@@ -21,3 +21,12 @@ Branch 1
 **
 **
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Forks and Pull Requests :
+* Forking is like taking an entire other instance of repo and keep it in my own account
+Pull Request:
+* With the permission of the real owner, can add my changes to the original repository.
+Issue:
+* just for collaboration while on Github webapp
+* place to leave a comment about the project
+* this fixes #10
